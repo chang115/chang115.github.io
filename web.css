@@ -10,7 +10,7 @@
     }
 }
 
-img{
+h1#title1{
     animation: fade-down  0.5s 0.4s backwards;
 }
 
