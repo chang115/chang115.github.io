@@ -10,9 +10,10 @@
     }
 }
 
-h1#title{
+img{
     animation: fade-down  0.5s 0.4s backwards;
 }
+
 * {
     margin: 0;
     padding: 0;
@@ -36,7 +37,6 @@ section {
 h1 {
     color: rgb(226, 226, 226);
     text-shadow: 1px 1px 4px #000;
-    animation: fade-down 0.5s 0.4s backwards;
 }
 
 .one {
